@@ -1,1 +1,1 @@
-# min1
+ipconfig
